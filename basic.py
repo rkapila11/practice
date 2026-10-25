@@ -12,8 +12,8 @@ def pythagorean(a, b):
     return c
 
 
-side_a = 10
-side_b = 24
+side_a = 12
+side_b = 25
 
 hypo = pythagorean(side_a, side_b)
 print(f"the hypotenuse of your triangle is {hypo}")
